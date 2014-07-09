@@ -5,5 +5,12 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_practice">PracticeActivity</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_english">EnglishActivity</string>
+    <string name="title_activity_hindi">HindiActivity</string>
+    <string name="hindi_alphabets">अआइईउऊऋएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसह</string>
+    <string name="hindi_numbers">०१२३४५६७८९</string>
+    <string name="arabic_alphabets">ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ق ف ك ل م ن ه و ي</string>
+    <string name="arabic_numbers">٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩</string>
+    <string name="title_activity_arabic">ArabicActivity</string>
 
 </resources>

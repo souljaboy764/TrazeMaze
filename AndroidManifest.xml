@@ -29,6 +29,18 @@
             android:name="com.example.trazemaze2.PracticeActivity"
             android:label="@string/title_activity_practice" >
         </activity>
+        <activity
+            android:name="com.example.trazemaze2.EnglishActivity"
+            android:label="@string/title_activity_english" >
+        </activity>
+        <activity
+            android:name="com.example.trazemaze2.HindiActivity"
+            android:label="@string/title_activity_hindi" >
+        </activity>
+        <activity
+            android:name="com.example.trazemaze2.ArabicActivity"
+            android:label="@string/title_activity_arabic" >
+        </activity>
     </application>
 
 </manifest>
